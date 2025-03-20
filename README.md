@@ -1,5 +1,5 @@
 # Quantum Computing
-One of recent top tpoics, beside Deepseek, Groke3 and Manus, is definitely the breakthrough of ##Quantum Computing.  
+One of recent top tpoics, beside Deepseek, Groke3 and Manus, is definitely the breakthrough of Quantum Computing.  
 
 ## Microsoft (19 Feberury 2025)
 Microsoft announced their first quantumn processor "Majorana1" on 19 Feb 2025.  This make quatum state existes in themory into an applicable state in a controlled environment.  And Microsoft clamins that the Majorana1 can create and control the quatum states in the processor that make quatum computing become possible.
