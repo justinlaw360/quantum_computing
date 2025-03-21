@@ -1,5 +1,5 @@
 # Quantum Computing
-One of recent top tpoics, beside Deepseek, Groke3 and Manus, is definitely the breakthrough of Quantum Computing.  
+As the time of writing, 21 Mar 2025, one of recent hot tpoics, beside Deepseek, Groke3 and Manus, is definitely the breakthrough of Quantum Computing.  
 
 
 ## Recent events
