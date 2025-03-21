@@ -1,5 +1,12 @@
 # Quantum Computing
-As the time of writing, 21 Mar 2025, one of recent hot tpoics, beside Deepseek, Groke3 and Manus, is definitely the breakthrough of Quantum Computing.  
+As the time of writing, 21 Mar 2025, one of recent hot tpoics, beside Deepseek, Groke3 and Manus, is definitely the breakthrough of Quantum Computing.
+
+
+# Quantum mechanic
+Many heard the name "Quatumn" from fiction that is a myterous but powerful substatian and it can change the world from the round up.  You may easily find a lot of research papers about Quantum since the time of Albert Einstein.  As all knows, Albert Einstein refuses to accept randomness, he believes everything can be explainable, or deterministic and so he has his famous quotes "God does not play dice with the universe". However, Einstein is one of the scienist discovered the indeterministic property in Quantum physics.
+
+
+
 
 
 ## Recent events
