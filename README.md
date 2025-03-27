@@ -6,11 +6,11 @@ Recently, one of the recent hot topics, besides Deepseek, Groke3, and Manus, is 
 # 量子力學淺談 Quantum Mechanics in Layman's Terms
 許多人從小說中聽過“量子”這個詞，認為它是一種神秘但強大的物質，可以從根本上改變世界。部分原因是它無法用經典物理原理輕易解釋。沒有很強的物理和數學背景的朋友們可能會覺得難以理解。
 
-我既不是物理學家也不是數學家，但我希望能分享我有限的知識（先戴上頭盔）。你可以輕鬆找到許多關於量子的研究論文和文章。如果你對這個話題感興趣，我強烈建議你進行一些學術學習研究。事實上，這個話題自愛因斯坦時代以來就一直存在。眾所周知，愛因斯坦拒絕接受隨機性；他相信一切都可以被確定性地解釋，因此他有一句著名的話：“上帝不會擲骰子決定宇宙的命運。”然而，愛因斯坦是發現量子力學不確定性特性的科學家之一。
+我既不是物理學家也不是數學家，但我希望能分享我有限的知識（先戴上頭盔，未必完全準確。）你可以在互聯網上輕鬆找到許多關於量子的研究論文和文章。如果你對這個話題感興趣，我建議你學習研究一下。事實上，這個話題自愛因斯坦時代以來就一直存在。眾所周知，愛因斯坦拒絕接受隨機性；他相信一切都可以被確定性地解釋，因此他有一句著名的話：“上帝不會擲骰子決定宇宙的命運。”然而，愛因斯坦是發現量子力學不確定性特性的科學家之一。
 
 Many have heard the term "Quantum" from fiction, where it is depicted as a mysterious but powerful substance that can change the world from the ground up. Part of the reason it seems so mysterious to the general public is that it cannot be easily explained using classical physical principles. Without a strong background in physics and mathematics, one may find it difficult to understand.
 
-I am neither a physicist nor a mathematician, but I hope to share my limited knowledge here. You can easily find a lot of research papers and articles about Quantum Mechanics. If you are interested in this topic, I highly recommend doing some academic homework. In fact, it has been a topic of interest since the time of Albert Einstein. As everyone knows, Einstein refused to accept randomness; he believed everything could be explained deterministically, hence his famous quote, "God does not play dice with the universe." However, Einstein was one of the scientists who discovered the indeterministic properties of Quantum Mechanics.
+I am neither a physicist nor a mathematician, but I hope to share my limited knowledge here. You can easily find a lot of research papers and articles about Quantum Mechanics in Internet. If you are interested in this topic, I highly recommend doing some academic homework. In fact, it has been a topic of interest since the time of Albert Einstein. As everyone knows, Einstein refused to accept randomness; he believed everything could be explained deterministically, hence his famous quote, "God does not play dice with the universe." However, Einstein was one of the scientists who discovered the indeterministic properties of Quantum Mechanics.
 
 ## 不確定性原理 Uncertainty behavoir 
 量子力學其中一個基本原理，是"不確定性原理"。就是說無論如何準備量子粒子或如何仔細安排實驗，都不可能同時精確測量其位置和動量。
