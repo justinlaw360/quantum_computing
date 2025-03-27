@@ -2,10 +2,20 @@
 As the time of writing, 21 Mar 2025, one of recent hot tpoics, beside Deepseek, Groke3 and Manus, is definitely the breakthrough of Quantum Computing.
 
 
-# Quantum mechanic
-Many heard the name "Quatumn" from fiction that is a myterous but powerful substatian and it can change the world from the round up.  You may easily find a lot of research papers about Quantum since the time of Albert Einstein.  As all knows, Albert Einstein refuses to accept randomness, he believes everything can be explainable, or deterministic and so he has his famous quotes "God does not play dice with the universe". However, Einstein is one of the scientists discovered the indeterministic property in Quantum mechanic.
+# Quantum mechanic in layman terms
+Many heard the name "Quatumn" from fictions that it is a mysterious but powerful substances and it can change the world from the round up.  Part of the reason it is so mysterious to common people is that it cannot be explained easliy with classical physical princple.  One without a strong phyisc and math background, may find it is difficult to understand.  
 
-# Quantum mechanic in simple term
+I am not neither an physician nor mathematics, but I do hope trying my best to share what my limit knowlege here (put my hemlet first). You can easily find a lot of research papers and aricles about Quantum, if you are intereted in this topic, I highly recommend you do some homeworks in acadmeic ways.  In fact, it is a topic since the time of Albert Einstein.  As all knows, Albert Einstein refuses to accept randomness, he believes everything can be explainable, or deterministic and so he has his famous quotes "God does not play dice with the universe". However, Einstein is one of the scientists discovered the indeterministic property in Quantum mechanic.
+
+## Uncertainty behavoir 
+One consequence of the basic quantum formalism is the uncertainty principle. This states that no matter how a quantum particle is prepared or how carefully experiments upon it are arranged.  It is impossible to have a precise for a measurement of its position and also at the time for a measurement of its momentum.
+
+## Quantum entanglement
+
+
+
+# Quantum mechanic
+Quantum mechanic describes the behavior of matter and of light.
 
 
 
