@@ -12,7 +12,7 @@ Many have heard the term "Quantum" from fiction, where it is depicted as a myste
 
 I am neither a physicist nor a mathematician, but I hope to share my limited knowledge here. You can easily find a lot of research papers and articles about Quantum Mechanics in Internet. If you are interested in this topic, I highly recommend doing some academic homework. In fact, it has been a topic of interest since the time of Albert Einstein. As everyone knows, Einstein refused to accept randomness; he believed everything could be explained deterministically, hence his famous quote, "God does not play dice with the universe." However, Einstein was one of the scientists who discovered the indeterministic properties of Quantum Mechanics.
 
-## 不確定性原理 Uncertainty behavoir 
+## 不確定性原理 Uncertainty behavior 
 量子力學其中一個基本原理，是"不確定性原理"。就是說無論如何準備量子粒子或如何仔細安排實驗，都不可能同時精確測量其位置和動量。
 One consequence of the basic quantum formalism is the uncertainty principle. This states that no matter how a quantum particle is prepared or how carefully experiments upon it are arranged, it is impossible to have a precise measurement of both its position and momentum at the same time.
 
