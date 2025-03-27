@@ -31,8 +31,3 @@ In 2025, scientists in China have transmitted encrypted images a record 12,900 k
 | 18 March 2025 | Nvidia | On 18 Mar 2025, Nvidia is working on a computer that combines AI, super-computing and quantum in one machine to rule them all. This will be born in the newly revealed Nvidia Accelerated Quantum Research Center (NVAQC). | <img src="https://github.com/user-attachments/assets/9bacc7e8-5eb7-47f2-8421-83bed764a4b5" width=70% height=70%> |
 | 19 March 2025 | DWave | D-Wave announced that they did a simulation in the property of magnetic materials using its quantum computer and solved the problem in 20 minutes.  It would require nearly one million years, and more energy than the entire world utilizes over the course of a year on the traditional supercomputer. | <img src="https://github.com/user-attachments/assets/f71959c6-b2f6-4ce8-a223-52beb588cc44"  width=70% height=70%> |
 | 25 March 2025 | Stellenbosch University | Scientists from South Africa and China have successfully created the world’s longest intercontinental quantum satellite link, spanning 12,900 kilometers (~8,000 miles).  | <img src="https://github.com/user-attachments/assets/fa7e6375-0760-4fbc-9e55-7e5e451b0775"  width=70% height=70%> |
-
-
-
-# What does it mean to us?
-
